@@ -1,5 +1,5 @@
 {
-    "name": "konux-interview",
+    "name": "cypressui-apis",
     "version": "0.0.0",
     "engines": {
         "node": ">=16.4.2"
